@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Welcome to SportsBall Lounge!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tervetuloa! Tere Tulemast!
+
+Tere Viljar :)
+
+More info here soon.
 
 ## Available Scripts
 
