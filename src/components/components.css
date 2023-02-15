@@ -26,7 +26,7 @@
   float: left;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px 14px;
   text-decoration: none;
   font-size: medium;
   font-weight: bold;
@@ -62,10 +62,32 @@
   } 
 
 /* Tables */
-  .grid {
+  .table-styles {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
   }
+  .grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 25px;
+    margin-top: 1.3em;
+    flex-wrap: wrap;
+  }
+  
+  .drop {
+    margin: 10px;
+  }
+  
+  .tables {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+
   
