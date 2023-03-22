@@ -2,7 +2,7 @@
 
 All my sportsing news in the same place.
 
-More info here soon.
+Work in progress.
 
 ## Available Scripts
 
