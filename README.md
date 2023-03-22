@@ -1,8 +1,6 @@
 # Welcome to SportsBall Lounge!
 
-Tervetuloa! Tere Tulemast!
-
-Tere Viljar :)
+All my sportsing news in the same place.
 
 More info here soon.
 
